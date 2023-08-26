@@ -1,0 +1,14 @@
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\controller\mapper\ProductAccountMapper.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\exception\CRUDException.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\controller\InterestRateController.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\controller\mapper\InterestRateMapper.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\repository\ProductAccountRepository.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\model\InterestRate.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\controller\dto\ProductAccountRQRS.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\service\InterestRateService.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\controller\dto\InterestRateRQRS.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\ProductsAccountsApplication.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\repository\InterestRateRepository.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\service\ProductAccountService.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\controller\ProductAccountController.java
+C:\Arquitectura\Examen3P\products-accounts\src\main\java\com\banquito\core\productsaccounts\model\ProductAccount.java
